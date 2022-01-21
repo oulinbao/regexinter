@@ -14,9 +14,9 @@
 package intersection
 
 import (
+	"github.com/stretchr/testify/assert"
 	"testing"
 )
-import "github.com/stretchr/testify/assert"
 
 func TestIntersection(t *testing.T) {
 	type Case struct {

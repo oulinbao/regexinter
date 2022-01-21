@@ -16,10 +16,10 @@ package intersection
 
 import (
 	"fmt"
+	"github.com/oulinbao/regexinter/dfa"
+	"github.com/oulinbao/regexinter/nfa"
+	"github.com/oulinbao/regexinter/runerange"
 	"log"
-	"regexinter/dfa"
-	"regexinter/nfa"
-	"regexinter/runerange"
 	"regexp"
 )
 

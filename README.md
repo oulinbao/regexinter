@@ -1,7 +1,7 @@
 regexinter [![License](http://img.shields.io/:license-gpl3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0.html)
 ===
 
-re2inter is built for checking two regular expressions (regex) have intersection (conflict) or not.
+regexinter is built for checking two regular expressions (regex) have intersection (conflict) or not.
 It's based on https://gitlab.com/opennota/re2dfa project.
 
 # Installation

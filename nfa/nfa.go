@@ -17,7 +17,7 @@ package nfa
 import (
 	"regexp/syntax"
 
-	"regexinter/runerange"
+	"github.com/oulinbao/regexinter/runerange"
 )
 
 const (

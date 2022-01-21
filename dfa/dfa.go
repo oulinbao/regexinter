@@ -20,8 +20,8 @@ import (
 	"strconv"
 	"strings"
 
-	"regexinter/nfa"
-	"regexinter/runerange"
+	"github.com/oulinbao/regexinter/nfa"
+	"github.com/oulinbao/regexinter/runerange"
 )
 
 type Node struct {

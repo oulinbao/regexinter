@@ -17,9 +17,9 @@ package main
 import (
 	"flag"
 	"fmt"
+	"github.com/oulinbao/regexinter/intersection"
 	"log"
 	"os"
-	"regexinter/intersection"
 )
 
 func main() {
