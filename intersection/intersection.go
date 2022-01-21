@@ -17,10 +17,10 @@ package intersection
 import (
 	"fmt"
 	"log"
+	"regexinter/dfa"
+	"regexinter/nfa"
+	"regexinter/runerange"
 	"regexp"
-	"reinter/dfa"
-	"reinter/nfa"
-	"reinter/runerange"
 )
 
 var nodeMap map[string]*CombineNode

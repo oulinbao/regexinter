@@ -17,7 +17,7 @@ package nfa
 import (
 	"regexp/syntax"
 
-	"reinter/runerange"
+	"regexinter/runerange"
 )
 
 const (

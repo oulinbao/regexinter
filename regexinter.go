@@ -19,16 +19,16 @@ import (
 	"fmt"
 	"log"
 	"os"
-	"reinter/intersection"
+	"regexinter/intersection"
 )
 
 func main() {
 	log.SetFlags(0)
 
 	flag.Usage = func() {
-		fmt.Println(`Usage: reinter regexp1 regexp2
+		fmt.Println(`Usage: regexinter regexp1 regexp2
 
-EXAMPLE: reinter "a+b" "a*b"`)
+EXAMPLE: regexinter "a+b" "a*b"`)
 	}
 	flag.Parse()
 
