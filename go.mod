@@ -1,4 +1,4 @@
-module reinter
+module github.com/oulinbao/reinter
 
 go 1.16
 
