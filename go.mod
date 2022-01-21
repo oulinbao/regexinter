@@ -1,4 +1,4 @@
-module regexinter
+module github.com/oulinbao/regexinter
 
 go 1.16
 
